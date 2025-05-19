@@ -47,4 +47,3 @@ function renderData(procuctX) {
 }
 
 fetchData();
-renderData;
